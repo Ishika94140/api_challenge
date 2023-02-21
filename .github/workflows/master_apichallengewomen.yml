@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ApiChallengeWomen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF4916463DDF4E3AA4A2B30FCF6195AF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D60E419784B4A838E8670B769E89555 }}
           package: .
